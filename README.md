@@ -1,5 +1,8 @@
 # COVID-19 Chest X-Ray Image Classification
 
+![COVID-19 Chest X-Ray Image Classification](https://github.com/FerasAlshash/COVID-19-CXR-CNN/blob/main/_2800643f-eebc-489d-81fa-a70f6ad7a520.jpg)
+
+
 This project is a machine learning model designed to classify chest X-ray images into three categories: **COVID-19**, **Normal**, and **Other Viral Infections**. Using convolutional neural networks (CNNs) and image preprocessing techniques, the model achieves high accuracy in distinguishing these categories.
 
 ## Project Description
